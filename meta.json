@@ -1,0 +1,12 @@
+{
+  "status": "WIP",
+  "description": "Julia library for reading and writing ARFF files.",
+  "references": [
+    {
+      "title": "ARFF",
+      "url": "https://waikato.github.io/weka-wiki/formats_and_processing/arff_stable/",
+      "year": null
+    }
+  ],
+  "tags": ["Julia", "Data Science", "Utility Library", "ARFF"]
+}
